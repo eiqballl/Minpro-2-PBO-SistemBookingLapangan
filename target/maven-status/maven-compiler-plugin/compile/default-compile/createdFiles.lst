@@ -1,8 +1,0 @@
-view\BookingView.class
-mycompany\sistembookinglapanganbadmintondua\SistemBookingLapanganBadmintonDua.class
-controller\BookingController.class
-model\Booking.class
-model\NonMember.class
-model\Customer.class
-model\Member.class
-model\Lapangan.class
